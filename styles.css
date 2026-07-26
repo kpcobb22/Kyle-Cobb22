@@ -1,5 +1,5 @@
 a { 
-  Color: pink;
+  Color: "pink"
   background-color: blue;
   font-weight: bold;
 }
